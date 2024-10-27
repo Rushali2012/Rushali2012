@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Pre-Final Year Student at Nirma University who is experienced software developer with a knowledge of different programming languages, focused on effective coding practices and expertise in the development of websites. I am also competent in Python, Java and JavaScript alongside, my familiarity with<br>front-end technologies such as HTML and CSS enhance my ability to create engaging and user-friendly interfaces.</p>
+<p align="left">I am Pre-Final Year Student at Nirma University who is experienced software developer with a knowledge of different programming languages, focused on effective coding practices and expertise in the development of websites. I am also competent in Python, Java and JavaScript alongside, my familiarity with front-end technologies such as HTML and CSS enhance my ability to create engaging and user-friendly interfaces.</p>
 
 ###
 
